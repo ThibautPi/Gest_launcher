@@ -1,6 +1,6 @@
+package-lock.json
 node_modules
-Gestman_Auth
-Gestman_Gateway
-Gestman_Gestures
-Gestman_Users
-
+Gest_Auth
+Gest_Gateway
+Gest_Gestures
+Gest_Profile
