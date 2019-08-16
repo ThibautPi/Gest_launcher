@@ -1,0 +1,15 @@
+{
+  "name": "gestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start-dev": "concurrently \"cd Gestman_Gateway && npm run gateway-start\" \"cd Gestman_Gestures && npm run g-start\" \"cd Gestman_Auth && npm run auth-start\" \"cd Gestman_Users && npm run p-start\""
+  },
+  "author": "Piquard Thibaut",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^4.1.0",
+    "cross-env": "^5.2.0"
+  }
+}
