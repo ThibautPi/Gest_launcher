@@ -1,6 +1,6 @@
 package-lock.json
-node_modules
-Gest_Auth
-Gest_Gateway
-Gest_Gestures
-Gest_Profile
+/node_modules
+/Gest_Auth
+/Gest_Gateway
+/Gest_Gestures
+/Gest_Profile
